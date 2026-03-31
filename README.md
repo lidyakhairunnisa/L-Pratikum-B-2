@@ -1,2 +1,13 @@
 # L-Pratikum-B-2
 coba
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Belajar Git - Project 01</title>
+</head>
+<body>
+<p>Hello Dunia!, Saya sudah belajar Git</p>
+<p>Belajar git ternyata cukup menyenangkan</p>
+</body>
+</html>
